@@ -1,8 +1,9 @@
-##17.2.MDDN342 PS3
+## Iterative Patterns and Generative Landscapes
 
-###Final Submission
+![alt text](https://raw.githubusercontent.com/LABCAT/iterative-pattern-and-generative-landscapes/master/preview.jpg)
 
-####Iterative Pattern
+### Iterative Pattern
+
 My iterative pattern was inspired by experimenting with drawing patterns using shapes, rotation and the lerpColor function.  At first I was creating a pattern that had a high level of randomization and was also quite interactive.  This approach definitely produced some interesting results, for example
 
 * <a href="http://bl.ocks.org/LABCAT/raw/0967de91df065231fd429b5fedb517d6/50434c5b7461e8b4187c6415ddecdc7709089785/preview.jpg">Preview 1</a>
@@ -16,7 +17,7 @@ The resulting pattern works very well on a large scale. It also works very well 
 On a large scale the pattern is created by 3x3 grid of hexagons (each with a different colour scheme). This is repeated both horizontally and vertically. On a smaller scale each hexagon consists of 20 different glyph patterns placed into three groups (each group has a different colour). The glyph patterns themselves are randomly created using different shapes and a varying number of rotations. 
 
 
-####Generative Landscape
+### Generative Landscape
 
 My goal for the generative landscape was to create a representation of a world that you would be likely to see in a video game. The landscape I have created represents an alien planet in a distant galaxy. 
 
