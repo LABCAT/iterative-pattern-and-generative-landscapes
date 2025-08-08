@@ -1,0 +1,17 @@
+{
+  "name": "iterative-pattern-and-generative-landscapes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Iterative pattern and generative landscapes with p5.js, built with Vite for GitHub Pages.",
+  "homepage": "https://labcat.github.io/iterative-pattern-and-generative-landscapes/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host --port 5173",
+    "deploy": "npm run build && gh-pages -d dist -b gh-pages -t true"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "vite": "^5.4.0"
+  }
+}
