@@ -2,6 +2,8 @@
 
 ![alt text](https://raw.githubusercontent.com/LABCAT/iterative-pattern-and-generative-landscapes/master/preview.jpg)
 
+[View the live site on GitHub Pages](https://labcat.github.io/iterative-pattern-and-generative-landscapes/)
+
 ### Iterative Pattern
 
 My iterative pattern was inspired by experimenting with drawing patterns using shapes, rotation and the lerpColor function.  At first I was creating a pattern that had a high level of randomization and was also quite interactive.  This approach definitely produced some interesting results, for example
